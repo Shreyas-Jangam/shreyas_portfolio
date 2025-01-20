@@ -49,7 +49,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       <div style="text-align: center">***I’m Shreyas***, Over the past few
       years, I’ve worked hard to build a solid foundation in web application
       development, artificial intelligence, machine learning, and blockchain
@@ -65,8 +65,7 @@ sections:
       create impactful solutions and meaningful connections.This journey has
       been an exciting mix of challenges, learning experiences, and personal
       growth, and I’m eager to see where it takes me
-      next!![](/images/WhatsApp%20Image%202025-01-18%20at%2011.58.27%20PM.jpeg)</div>
-
+      next!![](/images/new234.JPG)</div>
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
