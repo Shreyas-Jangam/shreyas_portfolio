@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: >-
     /images/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f6e617870613034353361366268643639636931632e706e67.png
-  altText: Project thumbnail image
+  altText: personal blogging website
 media:
   type: ImageBlock
   url: /images/bg1.jpg
