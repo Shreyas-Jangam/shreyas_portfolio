@@ -9,7 +9,7 @@ excerpt: >-
   maintainability, and ease of collaboration.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/download.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
