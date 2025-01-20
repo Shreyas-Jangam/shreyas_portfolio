@@ -68,7 +68,7 @@ sections:
 
   - type: MediaGallerySection
     title: 'In Progress, Always'
-    subtitle: This is the subtitle
+    subtitle: 'Continuously learning, creating, and becoming'
     images:
       - type: ImageBlock
         url: /images/WhatsApp Image 2025-01-20 at 5.05.44 PM.jpeg
