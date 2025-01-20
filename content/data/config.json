@@ -84,7 +84,7 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "## **© Shreyas Jangam**\n\n",
+        "copyrightText": "# **© Shreyas Jangam**\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
