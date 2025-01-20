@@ -13,7 +13,7 @@ description: >-
   communication between the frontend and backend.
 featuredImage:
   type: ImageBlock
-  url: /images/mobile.png
+  url: /images/desktop.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
