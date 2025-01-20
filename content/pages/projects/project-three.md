@@ -5,9 +5,11 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A visually stunning platform designed to display and celebrate creative
+  photography. Built with a modern and responsive layout, the website offers an
+  immersive viewing experience with high-quality image galleries, smooth
+  navigation, and engaging visual storytelling. Ideal for photographers to
+  highlight their portfolio and connect with audiences.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-01-20 230242.png
