@@ -64,7 +64,8 @@ sections:
       on social media. I believe in blending creativity with technical skills to
       create impactful solutions and meaningful connections.This journey has
       been an exciting mix of challenges, learning experiences, and personal
-      growth, and I’m eager to see where it takes me next!</div>
+      growth, and I’m eager to see where it takes me
+      next!![](/images/WhatsApp%20Image%202025-01-18%20at%2011.58.27%20PM.jpeg)</div>
 
   - colors: colors-f
     type: FeaturedProjectsSection
