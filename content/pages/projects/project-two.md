@@ -5,9 +5,12 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A sleek and intuitive web application built with Node.js, HTML, CSS, and
+  JavaScript, leveraging the Hugging Face Inference API to generate concise and
+  accurate summaries of lengthy text inputs. The app allows users to easily
+  extract key information from any content with just a click. Postman was
+  utilized for API testing and integration, ensuring seamless and efficient
+  communication between the frontend and backend.
 featuredImage:
   type: ImageBlock
   url: /images/mobile.png
