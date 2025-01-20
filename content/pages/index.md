@@ -81,7 +81,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/WhatsApp Image 2025-01-20 at 5.05.44 PM (1).jpeg
         altText: Image three
         caption: Image three caption
         elementId: ''
