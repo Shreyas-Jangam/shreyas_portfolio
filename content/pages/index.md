@@ -18,9 +18,10 @@ sections:
       analyst, cs teacher, content creator, writer, AI enthusiast and a
       freelancer 
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hi there! I’m sharing a little bit about my journey and all the hard work
+      I’ve put in over the past few years. It’s been an exciting ride, filled
+      with challenges and learning opportunities that have shaped who I am
+      today.
     styles:
       self:
         height: auto
