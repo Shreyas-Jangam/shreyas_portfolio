@@ -17,7 +17,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/mobile.png
   altText: Project image
 ---
 The **AI Text Summarizer App** is a web-based application designed to simplify the process of extracting concise summaries from lengthy text inputs. This project demonstrates the integration of modern technologies, user-friendly design, and advanced AI capabilities through the Hugging Face Inference API. Here's a detailed breakdown of the app's features and development process:
