@@ -49,6 +49,32 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      ***Hi there! I’m Shreyas***, Over the past few years, I’ve worked hard to
+      build a solid foundation in web application development, artificial
+      intelligence, machine learning, and blockchain technologies. Along the
+      way, I’ve also embraced opportunities to teach and mentor, which has been
+      both challenging and incredibly rewarding.
+
+
+      My projects reflect my passion for problem-solving and innovation. Whether
+      it’s developing a **Image classification** using VGG16 and Google Colab,
+      creating a **sentiment analysis** web app, or building a
+      **blockchain-based transaction tracking system for an NGO**, I’ve always
+      enjoyed pushing myself to learn and grow.
+
+
+      Outside of coding, I’ve explored creative outlets like technical blog
+      writing  and sharing unique content on social media. I believe in blending
+      creativity with technical skills to create impactful solutions and
+      meaningful connections.
+
+
+      This journey has been an exciting mix of challenges, learning experiences,
+      and personal growth, and I’m eager to see where it takes me next!
+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
