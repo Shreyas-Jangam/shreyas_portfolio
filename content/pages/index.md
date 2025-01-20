@@ -71,7 +71,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/WhatsApp Image 2025-01-20 at 5.05.44 PM.jpeg
         altText: Image one
         caption: Image one caption
         elementId: ''
