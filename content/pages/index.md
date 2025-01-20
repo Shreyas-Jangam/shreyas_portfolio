@@ -67,7 +67,7 @@ sections:
       growth, and I’m eager to see where it takes me next!</div>
 
   - type: MediaGallerySection
-    title: Gallery
+    title: 'In Progress, Always'
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
