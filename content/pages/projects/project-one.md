@@ -13,6 +13,12 @@ featuredImage:
   url: >-
     /images/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f6e617870613034353361366268643639636931632e706e67.png
   altText: personal blogging website
+  caption: >-
+    A sleek and dynamic platform designed for sharing thoughts, experiences, and
+    stories. Built using HTML, CSS, JavaScript, and Node.js, the website offers
+    an intuitive interface for creating, editing, and managing blog posts. It
+    features a responsive design, smooth navigation, and engaging layouts,
+    making it an ideal space for personal expression and audience connection.
 media:
   type: ImageBlock
   url: /images/bg1.jpg
