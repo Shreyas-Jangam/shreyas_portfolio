@@ -214,4 +214,5 @@ sections:
         textAlign: left
 metaTitle: shreyas jangam
 metaDescription: shreyas jangam
+socialImage: /images/WhatsApp Image 2025-01-18 at 11.58.27 PM.jpeg
 ---
