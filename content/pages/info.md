@@ -238,6 +238,9 @@ sections:
       - type: Label
         label: Stable Diffusion
         url: ''
+      - type: Label
+        label: Project Management
+        url: ''
   - type: DividerSection
     styles:
       self:
