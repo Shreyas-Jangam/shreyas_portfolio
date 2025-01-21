@@ -163,7 +163,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.com/shreyas0540'
         styles:
           self:
             textAlign: left
