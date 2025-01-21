@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: "Redefining the future of web architecture with modular components and scalable, API-driven solutions for a seamless digital experience. \U0001F310\U0001F4A1"
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/composable.png
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
