@@ -4,7 +4,7 @@ title: Habits of highly productive web developers ⌨️
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Start implementing these habits today and watch your productivity soar!
 featuredImage:
   type: ImageBlock
   url: /images/software-dev.jpg
