@@ -147,7 +147,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/shreyas-jangam'
+            url: 'https://www.linkedin.com/in/shreyas-jangam'
         styles:
           self:
             textAlign: left
