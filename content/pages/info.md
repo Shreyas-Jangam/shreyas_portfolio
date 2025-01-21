@@ -13,8 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
-      <div style="text-align: left; font-size: 30px; line-height: 1.6;">
+    text: >+
 
       Hey, I’m Shreyas, a passionate developer with roots in the beautiful town
       of Ratnagiri. Currently, I’m diving into freelancing, teaching, and
@@ -22,9 +21,9 @@ sections:
       in coding, you’ll find me expressing my creativity through writing or
       other pursuits. I’m always eager to learn, grow, and stay ahead of the
       curve. Let’s connect and share ideas! Follow me on Instagram:
-      shreyas.jangam
+      https://www.instagram.com/shreyas.jangam/
 
-      </div>
+
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2025-01-19 at 2.21.42 AM.jpeg
