@@ -4,7 +4,7 @@ title: How Blockchain Can Enhance Transparency in NGOs and Nonprofits
 colors: colors-a
 date: '2025-01-01'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: "Revolutionizing transparency: How blockchain ensures every NGO donation makes a difference. \U0001F30D\U0001F4A1"
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
