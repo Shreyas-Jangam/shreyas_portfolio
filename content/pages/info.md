@@ -283,7 +283,7 @@ sections:
           **Current**
 
 
-          *    **Teaching Profession** 
+          *   **Teaching Profession**
 
 
           <!---->
@@ -302,15 +302,13 @@ sections:
           **2019**
 
 
-          *   Software Developer Intern at Aaryak Solutions 
+          *   Software Developer Intern at Aaryak Solutions
 
 
           **2016-17**
 
 
           *   freelance
-
-
 
         styles:
           self:
