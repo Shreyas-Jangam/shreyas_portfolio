@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      <div style="text-align: left; font-size: 50px;">
+      <div style="text-align: left; font-size: 40px;">
 
       Hey, I’m Shreyas, a passionate developer with roots in the beautiful town
       of Ratnagiri. Currently, I’m diving into freelancing, teaching, and
