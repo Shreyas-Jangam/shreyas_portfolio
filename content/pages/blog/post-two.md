@@ -19,7 +19,7 @@ featuredImage:
   url: /images/featured-Image2.jpg
   altText: Post thumbnail image
 media:
-  url: /images/post-4.png
+  url: /images/1_1F0pnsRb922-9GvnePIPzQ.webp
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
