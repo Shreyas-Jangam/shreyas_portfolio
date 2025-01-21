@@ -9,7 +9,7 @@ excerpt: >-
   gained, hoping they inspire and guide others on their own journeys.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/book-8858593_640.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
