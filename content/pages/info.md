@@ -229,6 +229,9 @@ sections:
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: AWS & PostgreSQL
+        url: ''
   - type: DividerSection
     styles:
       self:
