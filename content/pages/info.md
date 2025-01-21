@@ -139,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: ''
         styles:
           self:
             textAlign: left
