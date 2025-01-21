@@ -232,6 +232,9 @@ sections:
       - type: Label
         label: AWS & PostgreSQL
         url: ''
+      - type: Label
+        label: Hugging Face API
+        url: ''
   - type: DividerSection
     styles:
       self:
