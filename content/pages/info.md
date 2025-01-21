@@ -131,7 +131,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Shreyas-Jangam'
         styles:
           self:
             textAlign: left
