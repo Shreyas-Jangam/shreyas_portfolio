@@ -279,26 +279,39 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >+
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *    **Teaching Profession** 
 
-          * fullstack at this startup
 
-          **2015**
+          <!---->
 
-          * senior front-end at this place
 
-          **2013**
+          *   freelance
+          [https://www.fiverr.com/shreyas\_jangam](https://www.fiverr.com/shreyas_jangam2022Software)
 
-          * intern developer at a big company
 
-          **2011**
+          **2022**
 
-          * flipping burgers
+
+          *   Software Developer Intern at Gadre Infotech
+
+
+          **2019**
+
+
+          *   Software Developer Intern at Aaryak Solutions 
+
+
+          **2016-17**
+
+
+          *   freelance
+
+
+
         styles:
           self:
             textAlign: left
