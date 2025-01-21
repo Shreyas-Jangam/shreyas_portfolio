@@ -16,7 +16,7 @@ author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image2.jpg
+  url: /images/download (1).jpeg
   altText: Post thumbnail image
 media:
   url: /images/1_1F0pnsRb922-9GvnePIPzQ.webp
