@@ -13,8 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      <div style="text-align: left; font-size: 30px;">
+    text: >
+      <div style="text-align: left; font-size: 30px; line-height: 1.6;">
 
       Hey, I’m Shreyas, a passionate developer with roots in the beautiful town
       of Ratnagiri. Currently, I’m diving into freelancing, teaching, and
@@ -25,9 +25,6 @@ sections:
       shreyas.jangam
 
       </div>
-
-      -------
-
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2025-01-19 at 2.21.42 AM.jpeg
