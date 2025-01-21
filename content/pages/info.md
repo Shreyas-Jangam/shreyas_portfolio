@@ -235,6 +235,9 @@ sections:
       - type: Label
         label: Hugging Face API
         url: ''
+      - type: Label
+        label: Stable Diffusion
+        url: ''
   - type: DividerSection
     styles:
       self:
