@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
+    text: >+
+      ```
+
       <div style="text-align: left; font-size: 40px;">
 
       Hey, I’m Shreyas, a passionate developer with roots in the beautiful town
@@ -24,6 +26,9 @@ sections:
       curve. Let’s connect and share ideas! Follow me on Instagram: 
 
       </div>
+
+      ```
+
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2025-01-19 at 2.21.42 AM.jpeg
