@@ -25,6 +25,8 @@ sections:
 
       </div>
 
+      -------
+
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2025-01-19 at 2.21.42 AM.jpeg
