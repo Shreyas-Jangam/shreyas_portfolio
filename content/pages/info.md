@@ -74,8 +74,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: >-
-          /images/png-clipart-fiverr-logo-freelancer-entrepreneurship-online-marketplace-business-company-text-thumbnail.png
+        url: /images/Fiverr-featured-image.webp
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
