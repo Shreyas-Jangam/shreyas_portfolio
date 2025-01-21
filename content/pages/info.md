@@ -13,14 +13,21 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      <div style="text-align: left; font-size: 30px; line-height: 1.6;">
+
+      Hey, I’m Shreyas, a passionate developer with roots in the beautiful town
+      of Ratnagiri. Currently, I’m diving into freelancing, teaching, and
+      exploring the exciting realms of AI and ML projects. When I’m not immersed
+      in coding, you’ll find me expressing my creativity through writing or
+      other pursuits. I’m always eager to learn, grow, and stay ahead of the
+      curve. Let’s connect and share ideas!
+
+      </div>
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2025-01-19 at 2.21.42 AM.jpeg
       altText: Hero image
     styles:
       self:
@@ -63,15 +70,15 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/images.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/Fiverr-featured-image.webp
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Picture1.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
@@ -124,7 +131,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Shreyas-Jangam'
         styles:
           self:
             textAlign: left
@@ -132,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/shreyas__jangam'
         styles:
           self:
             textAlign: left
@@ -140,15 +147,15 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/shreyas-jangam'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            label: LeetCode
+            url: 'https://leetcode.com/u/NzaInKqEK2/'
         styles:
           self:
             textAlign: left
@@ -156,7 +163,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.com/users/750389894609633380'
         styles:
           self:
             textAlign: left
@@ -164,7 +171,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/shreyas.jangam/'
         styles:
           self:
             textAlign: left
@@ -215,13 +222,28 @@ sections:
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Java
       - type: Label
-        label: Pancakes
+        label: Python
       - type: Label
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: AWS & PostgreSQL
+        url: ''
+      - type: Label
+        label: Hugging Face API
+        url: ''
+      - type: Label
+        label: Stable Diffusion
+        url: ''
+      - type: Label
+        label: Project Management
+        url: ''
+      - type: Label
+        label: Technical Documentation
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -239,7 +261,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      shreyasjangam010\@gmail.com
   - type: DividerSection
     styles:
       self:
@@ -257,26 +279,37 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >+
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   **Teaching Profession**
 
-          * fullstack at this startup
 
-          **2015**
+          <!---->
 
-          * senior front-end at this place
 
-          **2013**
+          *   freelance
+          [https://www.fiverr.com/shreyas\_jangam](https://www.fiverr.com/shreyas_jangam2022Software)
 
-          * intern developer at a big company
 
-          **2011**
+          **2022**
 
-          * flipping burgers
+
+          *   Software Developer Intern at Gadre Infotech
+
+
+          **2019**
+
+
+          *   Software Developer Intern at Aaryak Solutions
+
+
+          **2016-17**
+
+
+          *   freelance
+
         styles:
           self:
             textAlign: left
@@ -287,18 +320,17 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-2024**
 
-          * ba computer sciense at a semi fancy school
+          *   BE Computer Science \[AI & ML]
 
-          **2014**
+          **2017-2021**
 
-          * react certificate somewhere
+          *   Diploma in Computer Engineering
 
-          **2011**
 
-          * my highschool
+
         styles:
           self:
             textAlign: left
