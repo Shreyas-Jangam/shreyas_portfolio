@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
+    text: >+
       <div style="text-align: left; font-size: 30px; line-height: 1.6;">
 
       Hey, I’m Shreyas, a passionate developer with roots in the beautiful town
@@ -21,10 +21,10 @@ sections:
       exploring the exciting realms of AI and ML projects. When I’m not immersed
       in coding, you’ll find me expressing my creativity through writing or
       other pursuits. I’m always eager to learn, grow, and stay ahead of the
-      curve. Let’s connect and share ideas! Follow me on Instagram:
-      <https://www.instagram.com/shreyas.jangam/>
+      curve. Let’s connect and share ideas!
 
       </div>
+
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2025-01-19 at 2.21.42 AM.jpeg
