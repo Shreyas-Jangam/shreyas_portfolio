@@ -155,7 +155,7 @@ sections:
         actions:
           - type: Link
             label: LeetCode
-            url: 'https://codepen.io/'
+            url: 'https://leetcode.com/u/NzaInKqEK2/'
         styles:
           self:
             textAlign: left
