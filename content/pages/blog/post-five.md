@@ -4,7 +4,7 @@ title: AI are so hot right now
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: "AI: Transforming industries, sparking creativity, and shaping the future. \U0001F31F"
 featuredImage:
   type: ImageBlock
   url: /images/1711910924-8793.avif
