@@ -4,8 +4,7 @@ title: Composable - the future of web
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: "Redefining the future of web architecture with modular components and scalable, API-driven solutions for a seamless digital experience. \U0001F310\U0001F4A1"
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
@@ -52,7 +51,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
