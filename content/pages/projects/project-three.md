@@ -1,19 +1,68 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: photography showcase website
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  A visually stunning platform designed to display and celebrate creative
+  photography. Built with a modern and responsive layout, the website offers an
+  immersive viewing experience with high-quality image galleries, smooth
+  navigation, and engaging visual storytelling. Ideal for photographers to
+  highlight their portfolio and connect with audiences.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-01-20 230242.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-01-20 230242.png
   altText: Project image
+  caption: >-
+    Photography Showcase WebsiteThe Photography Showcase Website is a
+    beautifully designed platform crafted to highlight and celebrate creative
+    photography. Built using HTML, CSS, and JavaScript, this project combines
+    modern design principles with functionality to provide an immersive and
+    visually captivating experience for users.Key Features:Modern and Responsive
+    DesignBuilt with a fully responsive layout, ensuring the website looks
+    stunning and functions seamlessly across all devices, including desktops,
+    tablets, and smartphones.Utilizes flexible grids and media queries in CSS to
+    adapt to varying screen sizes.High-Quality Image GalleriesShowcases
+    photography in high resolution without compromising loading speed.Features
+    grid and carousel layouts for easy navigation through the
+    portfolio.Interactive User InterfaceSmooth hover effects and transitions
+    enhance the viewing experience.JavaScript-powered lightbox functionality
+    allows users to view images in a focused, enlarged format.Customizable
+    CategoriesOrganized galleries by themes or categories (e.g., landscape,
+    portraits, street photography), making it easy for users to explore specific
+    collections.Engaging Visual StorytellingSupports captions and descriptions
+    for each image to provide context and tell the story behind the
+    shot.Optimized PerformanceImplemented lazy loading for images to enhance
+    page load times and reduce resource usage.Minimized CSS and JavaScript files
+    for faster rendering.Contact and About PagesIncludes a professional "About"
+    section to introduce the photographer and share their journey and
+    inspiration.A functional "Contact" form powered by JavaScript allows users
+    to reach out for inquiries or collaborations.Development Process:Frontend
+    Development:HTML: Structured the website with semantic elements to create a
+    clear hierarchy for content and improve accessibility.CSS: Designed a modern
+    and aesthetic visual layout using advanced CSS techniques like flexbox,
+    grid, and animations.JavaScript: Enhanced interactivity with dynamic
+    features such as image sliders, modals, and smooth scrolling.Responsive
+    Design:Used media queries and flexible units to create a layout that adjusts
+    seamlessly to various devices.Tested the website on multiple screen sizes to
+    ensure consistent performance.Image Optimization:Compressed images to
+    balance quality and performance.Used lazy loading to prevent unnecessary
+    bandwidth usage.User Experience Enhancements:Implemented navigation menus
+    and breadcrumb trails for intuitive browsing.Integrated smooth animations to
+    make transitions visually appealing without being overwhelming.Technologies
+    Used:HTML: For creating the website’s structure.CSS: For styling the website
+    with an emphasis on aesthetics and responsiveness.JavaScript: For
+    implementing dynamic features and interactivity.Use Cases:Portfolio
+    Showcase: Ideal for photographers to present their work professionally and
+    attract potential clients.Inspiration Hub: Allows photography enthusiasts to
+    explore and gain inspiration from curated galleries.Client Engagement:
+    Offers an accessible way for clients to view work, learn about the
+    photographer, and connect for collaborations.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.

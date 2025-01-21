@@ -1,14 +1,15 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: "Sharing my wisdom with the world \U0001F30E"
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  Taking a moment to share the lessons I've learned and the insights I've
+  gained, hoping they inspire and guide others on their own journeys.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/book-8858593_640.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
@@ -45,7 +46,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -103,33 +104,49 @@ bottomSections:
       text:
         textAlign: left
 ---
+Throughout my journey, I’ve learned that wisdom is not just about knowledge or intelligence—it’s about learning from experiences, growing through challenges, and embracing the beauty of constant evolution. It's about seeking growth and learning, understanding the value of helping others along the way, and finding deeper connections to our purpose. This is a small attempt to share my wisdom with the world, based on my experiences and the lessons I've gathered over time.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### 1. **Embrace Continuous Learning**
 
-## Heading 2
+One of the first lessons I've come to embrace is the importance of **continuous learning**. The world is constantly evolving, especially in fields like technology, where new trends emerge every day. Whether it's web development, AI/ML, or new programming frameworks, staying curious and investing time in learning is essential. But it’s not just about technical skills—learning how to adapt, listen, and engage with others is equally important.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+As someone who dives deep into programming, web app development, and AI/ML frameworks, I’ve learned that **growth doesn’t stop at school or a single project**. Each challenge faced—whether it’s building a Blood Bank Management System or exploring AI-driven applications—offers valuable insights. Embrace learning as an endless process, and you'll always find new opportunities.
 
-### Heading 3
+### 2. **Celebrate the Beauty of Persistence**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+The journey of creation and development often requires **patience and persistence**. There are moments when things don’t work out as planned. Whether you're working on a personal project or solving a problem, setbacks can be discouraging. However, I’ve learned that **sticking with it through the tough times is where growth happens**.
 
-```javascript
-{
-  page.content && (
-    <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-      className="sb-markdown max-w-screen-md mx-auto"
-      data-sb-field-path="content"
-    >
-      {page.content}
-    </Markdown>
-  );
-}
-```
+From working on coding challenges to experimenting with various AI projects like sentiment analysis or personality tests, persistence has been my constant ally. I’ve learned to embrace the mistakes along the way, seeing them as opportunities for improvement rather than failures. Every failed attempt brings me closer to success.
 
-In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### 3. **Find Balance in Creativity and Logic**
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+As someone passionate about technology and creative endeavors like poetry and photography, I’ve discovered the power of blending **logic and creativity**. In coding, the logic is essential, but the creative aspect—whether it’s coming up with a unique project idea or developing an intuitive user interface—adds depth and personality. This balance is also visible in my poetry and image prompts, where I merge the technical with the artistic to create something engaging and impactful.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+When you can seamlessly blend analytical thinking with creative exploration, you unlock new dimensions to problem-solving and self-expression.
+
+### 4. **Value the Power of Simplicity**
+
+In programming, as in life, simplicity is often the key. **Overcomplicating things can create unnecessary confusion**. Whether it's writing code in a clean, concise manner or distilling complex ideas into simpler terms for learners, simplicity helps clarity and understanding. This approach has shaped my work—from developing user-friendly interfaces in web applications to simplifying complex topics for English learners or sharing my poetic reflections in clear, simple language.
+
+Simplicity isn’t about cutting corners—it’s about delivering the essence of what matters, efficiently and effectively. This wisdom, though often overlooked, helps to bring clarity and peace in our increasingly complex world.
+
+### 5. **Make Space for Connection and Collaboration**
+
+The most profound insights often come not from solitary work, but from collaboration. Whether it's collaborating on an AI project or engaging with peers for feedback on my writing or photography, **working together expands horizons**. I’ve learned that **strength lies in unity**, and a diverse perspective can often bring clarity to complex problems.
+
+Collaboration also applies to personal growth. For me, sharing knowledge and learning from others has been pivotal. From my journey in developing projects like a blood bank management system to using AI-driven platforms like Huggingface, it’s the exchange of wisdom that propels everyone forward.
+
+### 6. **Be Patient with Yourself and Others**
+
+Patience is perhaps the hardest lesson I've learned but also the most powerful. In the fast-paced world of technology and constant change, it’s easy to get caught up in the rush. However, I’ve learned that growth takes time—both in personal development and professional achievements.
+
+Whether it’s my own journey as a new teacher or as a developer trying to troubleshoot a tricky issue, taking the time to patiently work through challenges rather than rushing helps me maintain focus and clarity. **Patience creates space for better solutions and stronger connections.**
+
+### 7. **Share and Give Back to the Community**
+
+Ultimately, wisdom isn’t something to keep to yourself—it’s something to share. From writing technical blogs to creating content for students or collaborating on AI projects, I’ve found fulfillment in helping others along the way. **Giving back and sharing knowledge** not only helps others but also enhances your own understanding and growth.
+
+The joy of being able to contribute, whether through coding, mentoring, or artistic expressions, is what makes this journey worthwhile. I truly believe that the more we share, the more we grow together.
+
+
+

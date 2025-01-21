@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a (web & App) Developer, digital artist, consultant,  data analyst, cs
+      teacher, content creator, writer, AI enthusiast and a freelancer 
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hi there! I’m sharing a little bit about my journey and all the hard work
+      I’ve put in over the past few years. It’s been an exciting ride, filled
+      with challenges and learning opportunities that have shaped who I am
+      today.
     styles:
       self:
         height: auto
@@ -47,6 +48,68 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      <div style="text-align: center">***I’m Shreyas***, Over the past few
+      years, I’ve worked hard to build a solid foundation in web application
+      development, artificial intelligence, machine learning, and blockchain
+      technologies. Along the way, I’ve also embraced opportunities to teach and
+      mentor, which has been both challenging and incredibly rewarding.My
+      projects reflect my passion for problem-solving and innovation. Whether
+      it’s developing a **Image classification** using VGG16 and Google Colab,
+      creating a **sentiment analysis** web app, or building a
+      **blockchain-based transaction tracking system for an NGO**, I’ve always
+      enjoyed pushing myself to learn and grow\.Outside of coding, I’ve explored
+      creative outlets like technical blog writing  and sharing unique content
+      on social media. I believe in blending creativity with technical skills to
+      create impactful solutions and meaningful connections.This journey has
+      been an exciting mix of challenges, learning experiences, and personal
+      growth, and I’m eager to see where it takes me next!</div>
+
+  - type: MediaGallerySection
+    title: 'In Progress, Always'
+    subtitle: 'Continuously learning, creating, and becoming'
+    images:
+      - type: ImageBlock
+        url: /images/WhatsApp Image 2025-01-20 at 5.05.44 PM.jpeg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/new234.JPG
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/WhatsApp Image 2025-01-20 at 5.05.44 PM (1).jpeg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/WhatsApp Image 2025-01-20 at 5.05.44 PM (2).jpeg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +147,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -193,4 +256,11 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: shreyas jangam
+metaDescription: shreyas jangam
+socialImage: /images/WhatsApp Image 2025-01-18 at 11.58.27 PM.jpeg
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
