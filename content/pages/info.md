@@ -139,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: ''
+            url: 'https://x.com/shreyas__jangam'
         styles:
           self:
             textAlign: left
