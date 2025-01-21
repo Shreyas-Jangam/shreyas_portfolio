@@ -21,7 +21,8 @@ sections:
       exploring the exciting realms of AI and ML projects. When I’m not immersed
       in coding, you’ll find me expressing my creativity through writing or
       other pursuits. I’m always eager to learn, grow, and stay ahead of the
-      curve. Let’s connect and share ideas! Follow me on Instagram: 
+      curve. Let’s connect and share ideas! Follow me on Instagram:
+      shreyas.jangam
 
       </div>
 
