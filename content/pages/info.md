@@ -241,6 +241,9 @@ sections:
       - type: Label
         label: Project Management
         url: ''
+      - type: Label
+        label: Technical Documentation
+        url: ''
   - type: DividerSection
     styles:
       self:
