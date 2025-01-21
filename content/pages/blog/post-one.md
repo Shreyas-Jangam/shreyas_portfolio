@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: "Revolutionizing transparency: How blockchain ensures every NGO donation makes a difference. \U0001F30D\U0001F4A1"
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/1_X8XzvMAM9rXygjutJeBWoQ.webp
   altText: Post thumbnail image
 media:
   url: /images/1_X8XzvMAM9rXygjutJeBWoQ.webp
