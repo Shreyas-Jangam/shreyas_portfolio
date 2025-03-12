@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a (web & App) Developer, digital artist, consultant,  data analyst, cs
-      teacher, content creator, writer, AI enthusiast and a freelancer 
+      I’m a (web & App) Developer, digital artist, consultant,  data analyst,
+      content creator, writer, AI enthusiast and a freelancer
     subtitle: >-
       Hi there! I’m sharing a little bit about my journey and all the hard work
       I’ve put in over the past few years. It’s been an exciting ride, filled
