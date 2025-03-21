@@ -279,34 +279,20 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: >+
+        text: |+
           **Current**
 
-
-          *   **Teaching Profession**
-
-
-          <!---->
-
-
-          *   freelance
-          [https://www.fiverr.com/shreyas\_jangam](https://www.fiverr.com/shreyas_jangam2022Software)
-
+          *   freelance 
 
           **2022**
 
-
           *   Software Developer Intern at Gadre Infotech
-
 
           **2019**
 
-
           *   Software Developer Intern at Aaryak Solutions
 
-
           **2016-17**
-
 
           *   freelance
 
