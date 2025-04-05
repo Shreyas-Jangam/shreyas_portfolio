@@ -17,11 +17,11 @@ sections:
       <div style="text-align: left; font-size: 30px; line-height: 1.6;">
 
       Hey, I’m Shreyas, a passionate developer with roots in the beautiful town
-      of Ratnagiri. Currently, I’m diving into freelancing, teaching, and
-      exploring the exciting realms of AI and ML projects. When I’m not immersed
-      in coding, you’ll find me expressing my creativity through writing or
-      other pursuits. I’m always eager to learn, grow, and stay ahead of the
-      curve. Let’s connect and share ideas!
+      of Ratnagiri. Currently, I’m working as an Trainee Consultant ServiceNow
+      and exploring the exciting realms of AI and ML projects. When I’m not
+      immersed in coding, you’ll find me expressing my creativity through
+      writing or other pursuits. I’m always eager to learn, grow, and stay ahead
+      of the curve. Let’s connect and share ideas!
 
       </div>
 
