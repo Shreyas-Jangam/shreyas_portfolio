@@ -78,7 +78,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/1724755013113.jfif
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
