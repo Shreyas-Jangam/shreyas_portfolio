@@ -74,10 +74,6 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/Fiverr-featured-image.webp
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
         url: /images/Picture1.png
         altText: Logo three
         caption: Logo three
