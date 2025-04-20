@@ -278,7 +278,10 @@ sections:
         text: |+
           **Current**
 
-          *   freelance 
+          *   Technical Consultant ServiceNow
+          *   freelance
+
+
 
           **2022**
 
