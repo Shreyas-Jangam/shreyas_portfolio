@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a Trainee Consultant servicenow, (web & App) Developer, digital
+      I’m a Technical Consultant servicenow, (web & App) Developer, digital
       artist, content creator, writer, AI enthusiast and a freelancer
     subtitle: >-
       Hi there! I’m sharing a little bit about my journey and all the hard work
