@@ -15,10 +15,13 @@ sections:
     backgroundSize: full
     title: "Hi, I’m shreyas, a district\_Program Coordinator at the Shantilal Muttha Foundation, with a diverse background in Technical Consulting, Web & App Development, Digital Art, and more. I combine my passion for social impact with a broad range of skills to drive meaningful change in communities."
     subtitle: >-
-      Hi there! I’m sharing a little bit about my journey and all the hard work
-      I’ve put in over the past few years. It’s been an exciting ride, filled
-      with challenges and learning opportunities that have shaped who I am
-      today.
+      Hello I’m excited to share a glimpse into my journey, which has been a mix
+      of hard work, growth, and meaningful impact. From my time in technical
+      consulting and development to my current role as Ratnagiri District
+      Program Coordinator at the Shantilal Muttha Foundation, every experience
+      has taught me valuable lessons. This path has been full of challenges and
+      rewarding moments, and it’s shaped me into someone deeply committed to
+      driving positive change through innovation and collaboration.
     styles:
       self:
         height: auto
