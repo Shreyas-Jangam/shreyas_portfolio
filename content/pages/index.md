@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a Technical Consultant servicenow, (web & App) Developer, digital
-      artist, content creator, writer, AI enthusiast and a freelancer
+    title: "Hi, I’m shreyas, a district\_Program Coordinator at the Shantilal Muttha Foundation, with a diverse background in Technical Consulting, Web & App Development, Digital Art, and more. I combine my passion for social impact with a broad range of skills to drive meaningful change in communities."
     subtitle: >-
       Hi there! I’m sharing a little bit about my journey and all the hard work
       I’ve put in over the past few years. It’s been an exciting ride, filled
