@@ -50,21 +50,32 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <div style="text-align: center">***I’m Shreyas***, Over the past few
-      years, I’ve worked hard to build a solid foundation in web application
-      development, artificial intelligence, machine learning, and blockchain
-      technologies. Along the way, I’ve also embraced opportunities to teach and
-      mentor, which has been both challenging and incredibly rewarding.My
-      projects reflect my passion for problem-solving and innovation. Whether
-      it’s developing a **Image classification** using VGG16 and Google Colab,
-      creating a **sentiment analysis** web app, or building a
-      **blockchain-based transaction tracking system for an NGO**, I’ve always
-      enjoyed pushing myself to learn and grow\.Outside of coding, I’ve explored
-      creative outlets like technical blog writing  and sharing unique content
-      on social media. I believe in blending creativity with technical skills to
-      create impactful solutions and meaningful connections.This journey has
-      been an exciting mix of challenges, learning experiences, and personal
-      growth, and I’m eager to see where it takes me next!</div>
+      <div style="text-align: center">Currently, I’m serving as the **Ratnagiri
+      District Program Coordinator** at the **Shantilal Muttha Foundation**,
+      where I work on creating social impact through community-driven programs.
+      While my focus is now on empowering local communities and managing
+      impactful initiatives, my journey has been rich in diverse experiences,
+      from technical consulting to creative problem-solving.In my past work,
+      I’ve built a solid foundation in **web development**, **artificial
+      intelligence**, **machine learning**, and **blockchain technologies**.
+      I've had the opportunity to create innovative solutions, like developing
+      an image classification model using VGG16 on **Google Colab**, building a
+      sentiment analysis web app, and designing a **blockchain-based transaction
+      tracking system** for an NGO. These projects reflect my drive to learn,
+      solve problems, and push the boundaries of what technology can do.Beyond
+      the technical realm, I’ve always enjoyed blending creativity with my
+      skills. From **technical blogging** to creating engaging content on social
+      media, I believe that storytelling and digital art play a key role in
+      connecting with people. Whether it’s through tech or creative mediums, my
+      goal is to build solutions that make a difference.Looking back, this
+      journey has been a thrilling mix of challenges, growth, and the constant
+      pursuit of new opportunities to create value. Now, in my current role, I’m
+      channeling all that knowledge and experience into driving social impact
+      and community development—and I’m excited to continue this path of
+      learning and impact!
+
+
+      </div>
 
   - type: MediaGallerySection
     title: 'In Progress, Always'
