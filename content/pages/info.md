@@ -290,10 +290,8 @@ sections:
         text: |+
           **Current**
 
-          *   Technical Consultant ServiceNow
-          *   freelance
-
-
+          *   Ratnagiri District Program Coordinator
+          *   former Technical Servicenow Consultant
 
           **2022**
 
