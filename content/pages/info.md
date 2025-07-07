@@ -17,11 +17,23 @@ sections:
       <div style="text-align: left; font-size: 30px; line-height: 1.6;">
 
       Hey, I’m Shreyas, a passionate developer with roots in the beautiful town
-      of Ratnagiri. Currently, I’m working as an Trainee Consultant ServiceNow
-      and exploring the exciting realms of AI and ML projects. When I’m not
-      immersed in coding, you’ll find me expressing my creativity through
-      writing or other pursuits. I’m always eager to learn, grow, and stay ahead
-      of the curve. Let’s connect and share ideas!
+      of Ratnagiri. Currently, I’m working as the Ratnagiri District Program
+      Coordinator at the Shantilal Muttha Foundation, where I focus on driving
+      impactful community programs and initiatives. I’ve built a diverse skill
+      set over the years, ranging from ServiceNow consulting to developing AI/ML
+      projects, and I’m constantly exploring new ways to make a positive impact
+      through technology and innovation.
+
+
+      When I’m not immersed in my role at the foundation, I enjoy expressing my
+      creativity through **writing**, **digital art**, and engaging with new
+      technologies. Whether it’s mentoring, collaborating on projects, or
+      learning new skills, I’m always eager to grow and stay ahead of the curve.
+
+
+      Let’s connect and exchange ideas—there’s so much we can learn from one
+      another!
+
 
       </div>
 
@@ -78,11 +90,11 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/1724755013113.jfif
+        url: /images/sss.jfif
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/0K104WuE_400x400.jpg
         altText: Logo five
         caption: Logo five
     spacing: 3
@@ -278,10 +290,8 @@ sections:
         text: |+
           **Current**
 
-          *   Technical Consultant ServiceNow
-          *   freelance
-
-
+          *   Ratnagiri District Program Coordinator
+          *   former Technical Servicenow Consultant
 
           **2022**
 
